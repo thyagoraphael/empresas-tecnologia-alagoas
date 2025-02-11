@@ -7,7 +7,7 @@ Lista de empresas de tecnologia em Alagoas
 Nome | Tecnologias | Localidade |
 ---- | ----------- | ---------- |
 [Sococo](https://www.sococo.com.br/) | `PHP`, `ASP Clássico` | Maceió |
-[Carajás](https://www.carajas.com.br/trabalheconosco) | `Node` | Maceió |
+[Carajás](https://www.carajas.com.br/trabalheconosco) | `Node`, `Flutter` | Maceió |
 [Unimed](https://www.unimed.coop.br/site/web/maceio) | `PHP`, `Node`, `Python` | Maceió |
 [Mesha](https://mesha.com.br/) |  | Maceió |
 [Weni](https://www.linkedin.com/company/weniai/) | | Maceió |

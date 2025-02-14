@@ -20,7 +20,7 @@ Nome | Tecnologias | Frameworks | Localidade |
 [Safety System](https://safetysystemtechnology.com.br/contato/) | | | Maceió |
 [Automining](https://www.automining.com.br/) | | | Arapiraca |
 [Verttice](https://www.vertticegr.com.br/) | | | Maceió |
-[Prefeitura]() | `Java`, `Angular` | | Maceió |
+[Prefeitura]() | `Java`, `Angular`, `JSF`, `Spring Boot` | | Maceió |
 [Yantec](https://yantec.com.br/index.html) | | | São Miguel dos Campos |
 [ITEC](https://www.itec.al.gov.br/) | | | Maceió |
 

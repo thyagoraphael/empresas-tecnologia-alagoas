@@ -23,5 +23,6 @@ Nome | Tecnologias | Frameworks | Localidade |
 [Prefeitura]() | `Java`, `Angular` | | Maceió |
 [Yantec](https://yantec.com.br/index.html) | | | São Miguel dos Campos |
 [ITEC](https://www.itec.al.gov.br/) | | | Maceió |
+[Stant](https://www.stant.com.br/) | `Ruby`, `Javascript`, `Node`, `PostgreSQL`, `TypeORM`, `Typescript`| `Next.js`, `Express`, `shadcn`, `Tailwind`  | Maceió
 
 
